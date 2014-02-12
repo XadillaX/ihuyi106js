@@ -1,6 +1,6 @@
 {
   "name": "ihuyi106",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "iHuyi 106 SMS sender for node.js.",
   "main": "index.js",
   "dependencies": {
