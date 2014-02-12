@@ -1,0 +1,30 @@
+{
+  "name": "ihuyi106",
+  "version": "0.0.1",
+  "description": "iHuyi 106 SMS sender for node.js.",
+  "main": "index.js",
+  "dependencies": {
+    "libxmljs": "~0.8.1",
+    "spidex": "~1.0.1",
+    "xpath.js": "~0.0.3",
+    "xmldom": "~0.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/ihuyi106js.git"
+  },
+  "keywords": [
+    "SMS",
+    "huyi",
+    "106"
+  ],
+  "author": "XadillaX",
+  "license": "GPL-2",
+  "bugs": {
+    "url": "https://github.com/XadillaX/ihuyi106js/issues"
+  }
+}
