@@ -7,7 +7,7 @@ Install
 -------
 
 ```shell
-npm install ihuyi106
+$ npm install ihuyi106
 ```
 
 Usage
