@@ -1,11 +1,11 @@
 {
   "name": "ihuyi106",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "iHuyi 106 SMS sender for node.js.",
   "main": "index.js",
   "dependencies": {
-    "spidex": "~1.0.1",
-    "xmldom": "~0.1.19"
+    "spidex": "^2.1.1",
+    "xmldom": "^0.1.22"
   },
   "devDependencies": {},
   "scripts": {
@@ -21,7 +21,7 @@
     "106"
   ],
   "author": "XadillaX",
-  "license": "GPL-2",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/XadillaX/ihuyi106js/issues"
   }
